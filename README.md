@@ -10,16 +10,34 @@
 ### 알고리즘 문제 목록
 
 1.  - 기간: 2022.07.11
-    - 문제:
-      - https://school.programmers.co.kr/learn/courses/30/lessons/12901 (2016)
-      - https://school.programmers.co.kr/learn/courses/30/lessons/12903 (가운데 글자가져오기)
+    - 문제: [2016](https://school.programmers.co.kr/learn/courses/30/lessons/12901) /
+           [가운데 글자가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)
 
 <br>
 
-2.  - 기간: 2022.07.11
-    - 문제:
-      - https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript (같은 숫자는 싫어)
-      - https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=javascript (나누어 떨어지는 숫자 배열)
+2.  - 기간: 2022.07.12
+    - 문제: [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=javascript) /
+           [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910?language=javascript)
+
+<br>
+
+3.  - 기간: 2022.07.13
+    - 문제: [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=javascript) /
+           [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
+<br>
+
+4.  - 기간: 2022.07.14
+    - 문제: [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=javascript) /
+           [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)
+<br>
+
+5.  - 기간: 2022.07.15
+    - 문제: [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=javascript) /
+           [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)
+           
+        
+           
+      
 
 ### 기타 주의사항
 
