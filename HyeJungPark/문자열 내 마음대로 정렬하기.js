@@ -23,4 +23,10 @@ function solution(strings, n) {
   return answer;
 }
 
-console.log(solution(['abce', 'abcd', 'cdx'], 2));
+// console.log(solution(['abce', 'abcd', 'cdx'], 2));
+
+function solution2(strings, n) {
+  return strings.sort((a, b) => (a[n] === b[n] ? a.localeCompare(b) : a[n].localeCompare(b[n])));
+}
+
+console.log(solution2(['abce', 'abcd', 'cdx'], 2));
