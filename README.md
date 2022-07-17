@@ -22,13 +22,17 @@
 
 <br>
 
-3.  - 기간: 2022.07.13 - 문제: [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=javascript) /
+3.  - 기간: 2022.07.13
+    - 문제: [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=javascript) /
       [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915?language=javascript)
-      <br>
 
-4.  - 기간: 2022.07.14 - 문제: [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=javascript) /
+<br>
+
+4.  - 기간: 2022.07.14
+    - 문제: [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=javascript) /
       [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917?language=javascript)
-      <br>
+
+<br>
 
 5.  - 기간: 2022.07.15
     - 문제: [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918?language=javascript) /
@@ -44,8 +48,7 @@
 
 7.  - 기간: 2022.07.19
     - 문제: [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) /
-      [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)  
-
+      [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926?language=javascript)
 
 <br>
 
@@ -63,9 +66,8 @@
 
 10. - 기간: 2022.07.22
 
-
     - 문제: [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=javascript) /
-           [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)
+      [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)
 
 ### 기타 주의사항
 
