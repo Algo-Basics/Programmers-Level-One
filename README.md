@@ -69,6 +69,45 @@
     - 문제: [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933?language=javascript) /
       [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=javascript)
 
+<br>
+
+11. - 기간: 2022.07.25
+
+    - 문제: [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=javascript) /
+      [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=javascript)
+
+<br>
+
+12. - 기간: 2022.07.26
+
+    - 문제: [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=javascript) /
+      [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943?language=javascript)
+
+<br>
+
+
+13. - 기간: 2022.07.27
+
+    - 문제: [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=javascript) /
+      [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947?language=javascript)
+      
+<br>
+
+14. - 기간: 2022.07.28
+
+    - 문제: [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948?language=javascript) /
+      [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)
+      
+<br>
+
+15. - 기간: 2022.07.29
+
+    - 문제: [x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=javascript) /
+      [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
+      
+<br>
+
+
 ### 기타 주의사항
 
 - 본인 이름으로 폴더를 만드신 이후에 진행하시길 바랍니다.
